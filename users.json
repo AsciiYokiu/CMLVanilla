@@ -1,0 +1,35 @@
+{
+  "formatVersion": 1,
+  "users": [
+    {
+      "name": "Yokiu",
+      "salt": "vDsZauCd0NCaIP4gAN7bMw==",
+      "iterations": 600000,
+      "hash": "1Ti9eGSpcRzvqrwlLlZE+4PqnWmD/dGDtiAPYVsR+1k="
+    },
+    {
+      "name": "By5k8",
+      "salt": "wadNmL0cFKiUSQXPAoIITA==",
+      "iterations": 600000,
+      "hash": "/hXlGJIKHk1XcFr1xSRz9RDK3koYEtjGW5CjUQn0X48="
+    },
+    {
+      "name": "hola_quease200",
+      "salt": "RIYV4zjGva5bSjIOZc4upQ==",
+      "iterations": 600000,
+      "hash": "bTpR73AJ67ZwKSgO/NI58awl6epmZfAFcNpZChaU4AY="
+    },
+    {
+      "name": "SERGIO4141",
+      "salt": "uYrVoGdC4rT0va3vh9yjgw==",
+      "iterations": 600000,
+      "hash": "AkDY4qdbWA+QxX0VdwXURq1ZX3700seh45lLny5lJPc="
+    },
+    {
+      "name": "Larrygud",
+      "salt": "CAIhWRo81x3MdseUqDaOxg==",
+      "iterations": 600000,
+      "hash": "oOIwh5glzSnaEX7OQnfdFxP++idn/oR17CPTRK9nYvY="
+    }
+  ]
+}
